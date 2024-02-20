@@ -1,2 +1,2 @@
 # CodeClauseInternship_TextEditor
-Creating a currency converter that converts amounts between different currencies.
+## Developed a basic text editor using Python that allows users to create, edit, and save text files.
